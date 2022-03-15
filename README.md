@@ -1,2 +1,2 @@
 # projetos-curso
- Vários projetos realizados em cursos
+ Diversos projetos realizados em cursos
